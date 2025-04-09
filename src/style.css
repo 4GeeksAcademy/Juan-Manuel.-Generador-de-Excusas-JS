@@ -1,5 +1,22 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
-
-body{
-    background: white;
-}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fdf6ec;
+    text-align: center;
+    margin-top: 100px;
+    color: #333;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 12px;
+    background-color: #fff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  #excuse {
+    font-size: 24px;
+    margin-top: 20px;
+  }
+  
